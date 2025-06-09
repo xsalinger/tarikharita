@@ -1,0 +1,13 @@
+
+{
+  "name": "tarikharitam-hendislik",
+  "version": "1.0.0",
+  "description": "Tarık Harita Mühendislik Web Sitesi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
